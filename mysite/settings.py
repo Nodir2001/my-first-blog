@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postqresql_psycopg2',
+        'ENGINE': 'django.db.backends.sqlite3',
         'NAME': 'djangogirls',
         'USER': 'Nodir2001',
         'PASSWORD': 'Jamolov_2002',
