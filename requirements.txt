@@ -17,5 +17,5 @@ schema==0.7.2
 six==1.15.0
 sqlparse==0.3.1
 tabulate==0.8.7
-urllib3==1.25.9
+urllib3==1.26.5
 whitenoise==5.1.0
